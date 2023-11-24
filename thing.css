@@ -1,0 +1,50 @@
+/* variables */
+    :root {
+        --primary: #fff;
+        --secondary: #fff;
+    }
+/* reset */
+body,p,a,ul,li {
+    margin: 0;
+    padding: 0;
+    text-decoration: none
+}
+
+* {
+    box-sizing: border-box;
+}
+
+li{
+    list-style: none;
+}
+
+
+/* base styles */
+    /* example: 
+     body {
+        background: var(--secondary);
+        overflow-x: hidden
+    }
+    
+    .button {
+        background: none
+    */
+
+/* fonts */
+
+/* mobile styles */
+
+/* small tablet styles */
+@media screen and (min-width: 620px) {
+
+}
+
+/* large tablets & laptop styles */
+@media screen and (min-width: 960px) {
+
+}
+
+/* desktop styles */
+@media screen and (min-width: 1200px) {
+
+}
